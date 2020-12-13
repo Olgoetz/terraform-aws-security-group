@@ -6,7 +6,7 @@ provider "aws" {
 
 
 module "sample-sg" {
-  source      = "../"
+  source      = "../../"
   name        = "myFirstSG"
   description = "Allow access on postgresql"
 
