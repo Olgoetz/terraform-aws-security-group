@@ -4,7 +4,7 @@ Terraform module to provision a AWS security group.
 
 ## Features
 
-Each Security Group will suffixed with an unique id to prevent any conflicts during resource creation.
+Each Security Group will be suffixed with an unique id to prevent any conflicts during resource creation.
 
 ## Examples
 
